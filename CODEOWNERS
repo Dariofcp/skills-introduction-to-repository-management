@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Dariofcp
+/src/backend/database.py      @Dariofcp
+/src/backend/routers/auth.py  @Dariofcp
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Dariofcp
